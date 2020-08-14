@@ -63,11 +63,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PrintGrade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="170">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PringTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/methods.java" />
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PrintSign.java" />
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PrintGrade.java" />
+        <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PringTriangle.java" />
       </list>
     </option>
   </component>
@@ -149,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597410938736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597414936095" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,9 +177,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintGrade">
+  <component name="RunManager" selected="Application.PringTriangle">
     <configuration name="ExactSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.ExactSum" />
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PringTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.PringTriangle" />
       <module name="Java-Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -203,19 +230,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex02_dataTypesAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.ex02_dataTypesAndVariables" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.methods" />
       <module name="Java-Fundamentals" />
@@ -230,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ex02_dataTypesAndVariables" />
       <item itemvalue="Application.ExactSum" />
       <item itemvalue="Application.methods" />
       <item itemvalue="Application.PrintSign" />
       <item itemvalue="Application.PrintGrade" />
+      <item itemvalue="Application.PringTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PringTriangle" />
         <item itemvalue="Application.PrintGrade" />
         <item itemvalue="Application.PrintSign" />
         <item itemvalue="Application.methods" />
         <item itemvalue="Application.ExactSum" />
-        <item itemvalue="Application.ex02_dataTypesAndVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -257,15 +271,16 @@
       <option name="presentableId" value="Default" />
       <updated>1597308127262</updated>
       <workItem from="1597308128971" duration="2277000" />
-      <workItem from="1597392198383" duration="9854000" />
+      <workItem from="1597392198383" duration="12451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12131000" />
+    <option name="totallyTimeSpent" value="14728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -354,8 +369,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PrintGrade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="170">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/PringTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
