@@ -13,9 +13,7 @@ public class Car {
         this.type = "Car";
     }
 
-    public String getModel() {
-        return model;
-    }
+
 
     public int getHorsepower() {
         return this.horsepower;
@@ -26,7 +24,7 @@ public class Car {
         return String.format("Type: Car%n" +
                         "Model: %s%n" +
                         "Color: %s%n" +
-                        "Horsepower: %d%n",
+                        "Horsepower: %d",
                 this.type, this.model, this.color, this.horsepower);
     }
 }
