@@ -14,29 +14,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/RandomizeWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Random2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,34 +24,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/DemoDice.java">
+        <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/AdvertismentMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="64" lean-forward="true" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Random.java">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="387" selection-start-line="387" selection-end-line="387" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Dice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1">
+              <caret line="551" column="25" selection-start-line="551" selection-start-column="25" selection-end-line="551" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -122,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Random2.java" />
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Dice.java" />
         <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/DemoDice.java" />
+        <option value="$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/AdvertismentMessage.java" />
       </list>
     </option>
   </component>
@@ -137,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,63 +142,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597933783712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597999795986" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,7 +166,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoDice">
+  <component name="RunManager" selected="Application.AdvertismentMessage">
+    <configuration name="AdvertismentMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.AdvertismentMessage" />
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.DemoDice" />
       <module name="Java-Fundamentals" />
@@ -242,19 +196,6 @@
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Java-Fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.ObjectCreate" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -286,19 +227,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ObjectCreate" />
       <item itemvalue="Application.RandomizeWords" />
       <item itemvalue="Application.Random2" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.DemoDice" />
+      <item itemvalue="Application.AdvertismentMessage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvertismentMessage" />
         <item itemvalue="Application.DemoDice" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Random2" />
         <item itemvalue="Application.RandomizeWords" />
-        <item itemvalue="Application.ObjectCreate" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +261,16 @@
       <workItem from="1597735107268" duration="16001000" />
       <workItem from="1597821194266" duration="3702000" />
       <workItem from="1597903217612" duration="12822000" />
+      <workItem from="1597993380047" duration="4762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69917000" />
+    <option name="totallyTimeSpent" value="74679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,7 +281,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.32910052" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.32910052" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -510,13 +453,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Palindrome.java" />
     <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Train.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -554,19 +491,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/RandomizeWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="153">
           <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -576,28 +503,63 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="5916">
           <caret line="387" selection-start-line="387" selection-end-line="387" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/DemoDice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="551" column="25" selection-start-line="551" selection-start-column="25" selection-end-line="551" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/RandomizeWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L05_BASIC_SYNTAX_CONDITIONAL_STATEMENTS_AND_LOOPS/AdvertismentMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="64" lean-forward="true" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
