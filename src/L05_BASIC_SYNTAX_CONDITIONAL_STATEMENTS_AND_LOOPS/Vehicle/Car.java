@@ -13,7 +13,9 @@ public class Car {
         this.type = "Car";
     }
 
-
+    public String getModel() {
+        return model;
+    }
 
     public int getHorsepower() {
         return this.horsepower;
